@@ -1,5 +1,3 @@
 # canberra
-project for aust
-
-* incl. Australia project
-  * web based architecturing tool
+* A part of Austrailia project
+   * web based architecturing tool
